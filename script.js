@@ -2,9 +2,9 @@ document.getElementById('year').textContent = new Date().getFullYear();
 
 const HOURS = {
   0: null,
-  1: null,
+  1: [9, 19],
   2: [9, 19],
-  3: [9, 19],
+  3: null,
   4: [9, 19],
   5: [9, 19],
   6: [9, 13],
