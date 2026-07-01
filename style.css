@@ -240,6 +240,8 @@ a { color: inherit; }
   box-shadow: var(--shadow);
 }
 
+.gallery-photo { background-size: cover; background-position: center; }
+
 .ph-1 { background: linear-gradient(135deg, #e8b7a8, #c98a76); }
 .ph-2 { background: linear-gradient(135deg, #d9b98f, #b98c56); }
 .ph-3 { background: linear-gradient(135deg, #e6cba7, #cf9f66); }
